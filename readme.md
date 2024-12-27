@@ -1,0 +1,2 @@
+<h1>App Escritorio Tiendas Mara</h1>
+<p>Aplicacion de escritorio usando las tecnologias JavaFX, SpringBoot y Mysql para crear una aplicacion escalable del inventario de tiendas Mara, aplicacion aplicada al mundo real donde se puede integrar con otras tecnologias para crear una aplicacion web.</p>
